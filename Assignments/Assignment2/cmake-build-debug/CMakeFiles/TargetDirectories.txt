@@ -1,0 +1,3 @@
+/Users/qigege/CLionProjects/32600 Assign2/cmake-build-debug/CMakeFiles/32600_Assign2.dir
+/Users/qigege/CLionProjects/32600 Assign2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qigege/CLionProjects/32600 Assign2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
